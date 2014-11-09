@@ -25,7 +25,7 @@ QML plugin that lets you talk to Anthy
 from QML.
 
 
-%define debug_package %{nil}
+# %define debug_package %{nil}
 
 
 %prep
